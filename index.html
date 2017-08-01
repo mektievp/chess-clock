@@ -1,0 +1,67 @@
+<html>
+<head><title>Chess Clock</title>
+<script type="text/javascript" src="clock.js" async></script>
+</head>
+<body>
+
+<table align="center" border="0">
+	<tr>
+		<td>
+
+			<img src="king-white.png">
+
+		</td>
+		<td align="center">
+
+			<p id="message">White always moves first!</p>
+
+			<table border="1" align="center" width="500">
+				<tr>
+					<td>
+
+						<p id="whiteDisplay" align="center"></p>
+
+					</td>
+					<td>
+
+						<p id="blackDisplay" align="center"></p>
+
+					</td>
+				</tr>
+				<tr>
+					<td align="center">
+
+						<button id="switchOne" onclick="start();">
+						Start
+						</button>
+
+					</td>
+					<td align="center">
+
+						<button id="switchTwo" onclick="whiteClock();">
+						Switch
+						</button>
+
+
+					</td>
+				</tr>
+			</table>
+
+			<br>
+			<br>
+			<button id="reset"
+			onclick="resetClock();"
+			>Reset
+			</button>
+
+		</td>
+		<td>
+
+			<img src="king-black.ico">
+
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>
