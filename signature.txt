@@ -2,9 +2,3 @@ Author: Phillip Mektiev
 Email: mektievp@gmail.com
 City: Tbilisi
 Company: Insightpool
-DOB: 04/05/1991
-Programming Language: JavaScript
-Spoken Language: Russian
-YOU GOT TO OPEN UP YOUR OPEN UP YOUR 
-
-gitplay master
