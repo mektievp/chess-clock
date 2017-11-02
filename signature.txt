@@ -2,19 +2,3 @@ Author: Phillip Mektiev
 Email: mektievp@gmail.com
 City: Tbilisi
 Company: Insightpool
-
-Commit 1 master.
-Commit 2 master.
-This is going to be the server branch.
-These changes are not in the master branch.
-
-This is going to be the client branch.
-These changes are not in the server or the 
-<<<<<<< a5439a22364672f40571bb0ad48960979299074d
-master branch.
-
-Change 1 to client
-Change 2 to client
-=======
-master branch.
->>>>>>> Client branch
