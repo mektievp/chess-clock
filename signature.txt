@@ -2,3 +2,6 @@ Author: Phillip Mektiev
 Email: mektievp@gmail.com
 City: Tbilisi
 Company: Insightpool
+
+This is going to be the server branch.
+These changes are not in the master branch.
