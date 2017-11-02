@@ -1,4 +1,17 @@
 Author: Phillip Mektiev
 Email: mektievp@gmail.com
 City: Tbilisi
+<<<<<<< 01a5186b1e302f69281fe2892957f27658cc3041
 Company: Insightpool
+=======
+Company: Insightpool
+
+This is going to be the server branch.
+These changes are not in the master branch.
+
+This is going to be the client branch.
+These changes are not in the server or the 
+master branch.
+
+Change 1 to client
+>>>>>>> Change 1 to Client
