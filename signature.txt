@@ -2,9 +2,3 @@ Author: Phillip Mektiev
 Email: mektievp@gmail.com
 City: Tbilisi
 Company: Insightpool
-<<<<<<< HEAD
-
-THIS IS MASTER
-=======
-THIS IS EXPERIMENT
->>>>>>> experiment
