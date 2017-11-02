@@ -5,3 +5,12 @@ Company: Insightpool
 
 Commit 1 master.
 Commit 2 master.
+This is going to be the server branch.
+These changes are not in the master branch.
+
+This is going to be the client branch.
+These changes are not in the server or the 
+master branch.
+
+Change 1 to client
+Change 2 to client
